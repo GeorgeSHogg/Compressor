@@ -8,3 +8,5 @@ Further work into greatly reducing the size of llms whilst keeping their capabil
 During work on this project, I found another potential usecase for this work. By spliting an integer into digits and using these as next word choices you can use the
 complexitiy of the english language and the model's specific interpretation of what should come next to improve encryption ability. This can be further enhanced by 
 adding a starting context string.
+
+Further work on the subject I wish to complete is predicting more words at a time and would further reduce encoding time and the length of the encoded string
